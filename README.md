@@ -8,8 +8,8 @@ This repository contains the practical implementations, algorithms, Jupyter note
 
 ## 👨‍🎓 Student Information
 
-- **Name:** VENKATA SHARATH KUMAR JAKKI
-- **Enrollment No.:** 92460118301
+- **Name:**  KANITHI AJAY
+- **Enrollment No.:** 92460118193
 - **Course:** B.Tech – Artificial Intelligence & Machine Learning
 - **Subject:** Data Analysis and Algorithms (DAA)
 
@@ -27,8 +27,8 @@ This repository contains the practical implementations, algorithms, Jupyter note
 
 ## 📂 Repository Structure
 
-```text
-DAA-Lab-Practicals/
+``` text
+DAA PRACTICALS/
 │
 ├── README.md
 │
@@ -115,7 +115,7 @@ Through these practicals, I gained knowledge of:
 
 ## 📌 Author
 
-**VENKATA SHARATH KUMAR JAKKI**
+** KANITHI AJAY **
 
 B.Tech – Artificial Intelligence & Machine Learning
 
